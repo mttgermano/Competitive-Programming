@@ -29,7 +29,7 @@ def bs(list,element):
 
 
 ###Upper_Bound Binary Search
-# Exect element xor Upper_bound 
+# Exact element xor Upper_bound 
 def bsu(list,element):
     l = -1
     r = len(list)
@@ -45,7 +45,7 @@ def bsu(list,element):
 
 
 ###Lower_Bound Binary Search
-# Exect element xor Lower_bound 
+# Exact element xor Lower_bound 
 def bsl(list,element):
     l = -1
     r = len(list)
